@@ -1,5 +1,5 @@
 data_path: "data" # data folder
-expand: True # whether to expand dataset from Spacy polarization, will be implemented in Quater 2
+expand: True # whether to expand dataset from Spacy polarization
 split: 0.2 # Train test split
 random_state: 42 # random_state of train test split
 ds1_name: "sentiment-analysis-for-financial-news.zip" # file name for first dataset
