@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 run python3 run.py generate_data download_models train test
 
-# for default testing run (submission for Quater1), no argument needed
+# for default testing run , no argument needed
 # test run will download, unzip our finetuned models from google drive,
 # predict on dummy testdata(3 samples) and output predicted labels
 
