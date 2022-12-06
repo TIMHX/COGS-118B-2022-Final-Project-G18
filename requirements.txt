@@ -1,5 +1,12 @@
 transformers == 4.24.0
 datasets == 2.7.0
 evaluate == 0.3.0
+python-box[all]~=6.0
+PyYAML
+kaggle
 pandas
-pytorch
+torch
+scikit-learn
+numpy
+requests
+gdown
