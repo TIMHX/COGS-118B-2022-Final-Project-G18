@@ -3,7 +3,8 @@
 </h1>
 
 <h4 align="center">
-  Fine-tuned Models based on pretrained Hugging Face Transformers
+  Fine-tuned Models based on pretrained Hugging Face Transformers <br />
+  Xing Hong, Xiangyi Kong
 </h4>
 
 ## Data Links:
