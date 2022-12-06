@@ -60,7 +60,7 @@ def generate_data():
                       names=['sentiment', 'text']) # read first data
     df2 = pd.read_csv('{}/{}'.format(save_path_raw, df2_name)) # read second data
     df3 = pd.read_csv('{}/{}'.format(save_path_raw, df3_name), on_bad_lines='skip', sep=';') # read third data
-    # df4 = ... Dylan's api
+    # df4 = ... Spacy and tweets's api
     logging.info('datasets loaded')
 
     # function to convert sentiment labels to numerical values
