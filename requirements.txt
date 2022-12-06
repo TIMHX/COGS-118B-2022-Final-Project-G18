@@ -10,3 +10,6 @@ scikit-learn
 numpy
 requests
 gdown
+spacy
+tqdm
+python-twitter-v2
